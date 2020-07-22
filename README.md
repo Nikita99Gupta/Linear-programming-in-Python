@@ -12,9 +12,15 @@ conda install -c conda-forge pulp
 
 # Problem considered
 Minimize :  Z = 3x + 5y
+
 Subject to the constraints: 
+
 2x + 3y >= 12
+
 -x + y <= 3
+
 x >= 4
+
 y <= 3
+
 x, y >= 0
